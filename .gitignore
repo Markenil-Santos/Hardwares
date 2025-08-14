@@ -1,3 +1,22 @@
+# KiCad
+*.kicad_pcb-bak
+*.sch-bak
+*.pro.user
+
+# CAD/3D
+*.step
+*.stl
+*.iges
+
+# Firmware
+/build/
+*.elf
+*.bin
+*.hex
+
+# Outros
+.DS_Store
+Thumbs.db
 # Prerequisites
 *.d
 
